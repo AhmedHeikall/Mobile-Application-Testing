@@ -7,6 +7,9 @@ and **sponsored by MCIT (Ministry of Communications and Information Technology �
 
 The project focuses on **end-to-end manual testing** of the Facebook mobile application, following the **Software Testing Life Cycle (STLC)**.
 
+📜 [View Certificate](https://www.udacity.com/certificate/e/3b8f9076-c714-11ec-b84e-d3c615040bc3)
+📜 [View Certificate](https://www.udacity.com/certificate/e/d92def34-1364-11ed-bbd7-27d5bc2e44bb)
+
 ---
 
 ## 📌 Project Overview
