@@ -5,10 +5,10 @@ This project was developed as a **Graduation Project** for the
 **Udacity Nanodegree Program**, delivered with **Sprints.ai**,  
 and **sponsored by MCIT (Ministry of Communications and Information Technology – Egypt)**.
 
-The project focuses on **end-to-end manual testing** of the Facebook mobile application, following the **Software Testing Life Cycle (STLC)**.
+Performed **end-to-end STLC-based manual testing** for Facebook mobile application features, including SRS documentation, 70 test scenarios, 328+ test cases, 7 defect reports, and requirements traceability across Posts, Stories, and Messaging modules.
 
-📜 [View Certificate](https://www.udacity.com/certificate/e/3b8f9076-c714-11ec-b84e-d3c615040bc3)
-📜 [View Certificate](https://www.udacity.com/certificate/e/d92def34-1364-11ed-bbd7-27d5bc2e44bb)
+### 📜 [View Certificate](https://www.udacity.com/certificate/e/3b8f9076-c714-11ec-b84e-d3c615040bc3)
+### 📜 [View Certificate](https://www.udacity.com/certificate/e/d92def34-1364-11ed-bbd7-27d5bc2e44bb)
 
 ---
 
