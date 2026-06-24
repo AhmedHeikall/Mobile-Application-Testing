@@ -19,6 +19,10 @@ This project covers **requirement analysis, test scenarios, test case design, te
 - Adding Stories  
 - Messaging  
 
+The project started with requirement gathering and Software Requirement Specification (SRS) creation, followed by deriving test scenarios, designing detailed test cases, organizing test suites, managing tests in Jira Xray, executing test cases, reporting defects, and creating a Requirements Traceability Matrix (RTM).
+
+The objective was to ensure complete requirement coverage, validate application functionality, identify defects, and demonstrate professional manual testing practices used in real-world software projects.
+
 All activities are executed using **Jira with xRay**, and screenshots are taken to ensure evidence-based reporting.
 
 ---
@@ -29,12 +33,18 @@ All activities are executed using **Jira with xRay**, and screenshots are taken 
 | **Domain** | Mobile Application Testing |
 | **Application** | Facebook Mobile App |
 | **Project Type** | Graduation Project |
-| **Program** | Udacity Nanodegree |
-| **Training Partner** | Sprints.ai |
-| **Sponsor** | MCIT – Egypt |
 | **Testing Type** | Manual Testing |
+| **Modules Tested** | 3 |
+| **Total Test Scenario** | 70 |
+| **Adding Posts Test Cases** | 110 |
+| **Adding Stories Test Cases** | 112 |
+| **Messaging Test Cases** | 106 |
+| **Total Functional Test Cases** | 328 |
+| **General Mobile Checklist Cases** | 45+ |
+| **Total Executed Test Cases** | 370+ |
+| **Reported Defects** | 7 |
+| **Traceability Matrix** | Yes |
 | **Test Management Tool** | Jira + xRay |
-| **Artifacts** | SRS, Test Scenarios, Test Cases, RTM |
 | **Platform** | Android / iOS |
 
 ---
@@ -90,7 +100,7 @@ Facebook is a global social networking service connecting billions of users. Thi
 
 ---
 
-## 🧪 Test Scenarios
+## Test Scenarios
 
 ### **Adding Posts Module**
 - Add post with text only  
@@ -127,8 +137,13 @@ Facebook is a global social networking service connecting billions of users. Thi
 - Share, restrict, block, report contacts  
 
 ---
+## Test Case Design & Implementation
+Test cases were organized into dedicated test suites and imported into Jira Xray.
+---
 
-## 🗂️ Project Artifacts
+## 🗂️ Project Structure
+
+- All Test Scenarios, Test Cases, Test Suites, Bug Report, ... in xlsx file 
 
 ```
 ├── SRS_Document .pdf
@@ -138,8 +153,10 @@ Facebook is a global social networking service connecting billions of users. Thi
 ---
 
 ## 🌟 Project Highlights
-✔ Full STLC coverage (Requirement → Closure)  
-✔ 70+ manual test cases  
+✔ Complete Software Testing Life Cycle (STLC)
+✔ 70+ Test Scenarios  
+✔ 328 Functional Test Cases 
+✔ 45+ Mobile Checklist Test Cases
 ✔ Jira + xRay test management  
 ✔ Defect tracking & reporting  
 ✔ Traceability Matrix implementation  
